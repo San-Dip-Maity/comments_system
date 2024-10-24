@@ -1,5 +1,5 @@
 import React from "react";
-import { Paper, TextField, Button, Box, Typography } from "@mui/material";
+import { Paper, TextField, Button, Box } from "@mui/material";
 import {
   Send,
   Comment,
